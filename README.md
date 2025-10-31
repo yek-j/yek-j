@@ -1,11 +1,3 @@
-<h3 align="center">Hi There👋 I'm a passionate 3-year experienced developer!</h3>
-
-<p align="center">
-  안녕하세요! 저는 솔루션 개발 및 유지보수를 하고 있는 3년차 개발자입니다.<br>
-  매일 한 걸음씩 성장하며, 새로운 기술과 도전을 즐기고 있습니다.<br>
-  작은 한 걸음이라도 미래를 위한 더 큰 걸음이 될 수 있다고 믿습니다.
-</p>
-
 <h3 align="center">⚙️ Current Tech Stack ⚙️</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
