@@ -32,10 +32,6 @@
   </a>
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yek-j&layout=compact">
-</div>
-
 <p align="center">
   <i>"Even a small step can be a giant leap towards the future."</i>
 </p>
